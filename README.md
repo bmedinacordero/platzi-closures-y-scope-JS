@@ -1,0 +1,1 @@
+# platzi-closures-y-scope-JS
